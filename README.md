@@ -1,3 +1,3 @@
 aphextm, 
 C#, java, 
-studying for bsc computer science
+studying for computer science, bsc (hons)

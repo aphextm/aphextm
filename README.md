@@ -1,3 +1,3 @@
 aphextm, 
 C#, java, python, 
-studying for computer science, bsc (hons)
+studying for computer science and artificial intelligence, bsc (hons)
